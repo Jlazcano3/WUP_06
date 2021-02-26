@@ -73,7 +73,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-The P-value is 0.07 which is not a very small number, indicates that is no actual difference in the amount of people who believe in the BIGBANG versus those who believe in the POSTLIFE. The null hypothesis is rejected due to the P-value.
+The P-value is 0.07 which is not a very small number, indicates that is no actual difference in the amount of people who believe in the BIGBANG versus those who believe in the POSTLIFE. The null hypothesis has been failed to reject due to the P-value.
 
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
